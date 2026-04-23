@@ -21,7 +21,7 @@ This project helps developers understand the basic setup and usage of the Syncfu
 ## Installation and Running the Application
 1. Clone the repository.
 ```bash
-git clone https://github.com/abinayabalakrishnan-syncfusion/React-stepper-getting-started.git
+git clone https://github.com/SyncfusionExamples/React-stepper-getting-started.git
 ```
 2. Open the project in Visual Studio Code.
 3. Install dependencies using `npm install`.
