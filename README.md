@@ -1,6 +1,5 @@
 # Getting Started with the React Stepper Component
 
-**Repository Description**  
 This repository contains a quick‑start React sample that demonstrates how to integrate and use the Syncfusion React Stepper component to create a progress‑based flow, such as an e‑commerce checkout experience.
 
 A quick‑start React project that shows how to create a React application and add the Syncfusion React Stepper component. It explains how to build a simple progress indicator by defining steps, labels, and icons.
